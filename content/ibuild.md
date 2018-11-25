@@ -12,5 +12,14 @@ link_url = "/"
 [[page_sections.navigation]]
 link_text = "All"
 link_url = "/all-available-blocks"
+[[page_sections]]
+block = "two-column-1"
+template = "2-column-text"
+[page_sections.col_1]
+content = "A town in California."
+headline = "San Francisco"
+[page_sections.col_2]
+content = "A town in France."
+headline = "Paris"
 
 +++
