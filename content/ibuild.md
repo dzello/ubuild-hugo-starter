@@ -3,6 +3,10 @@ date = "2018-11-25T04:21:26+00:00"
 layout = "blocks"
 title = "iBuild"
 [[page_sections]]
+block = "header-3"
+logo = "/uploads/2018/06/21/forestry-full.svg"
+template = "simple-header"
+[[page_sections]]
 block = "header-1"
 template = "navigation-header"
 [[page_sections.navigation]]
